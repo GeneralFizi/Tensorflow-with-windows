@@ -4,6 +4,8 @@ if you have followed the guide but still can't use tensorflow on windows, then y
 
 after makin a new ENV, set your tensorflow to 2.10, python 3.09 /3.9 (basically a version before python 3.10)
 then, install numpy version 1.26.4. i have tried using the newest numpy, but it can't run tensorflow with gpu. so i settled with this version
+
+Note : i dont have enough space on my c drive to install WSL, will update later.
 **My pip list for running TensorFlow on Windows without WSL**
 
 
